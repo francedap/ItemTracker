@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"articolo"},{"l":"categoria"},{"l":"controllerDaConsole"},{"l":"controllerGui"},{"l":"eccezioni"},{"l":"gestioneListe"},{"l":"listaDiArticoli"},{"l":"test"}];updateSearchResults();
